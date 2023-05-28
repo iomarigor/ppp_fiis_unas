@@ -1,0 +1,9 @@
+**********Corregir cuando se busca un cliente y me voy a otro modal (proforma) este carga por defecto el anterior usuario que filter
+**********quitar las direccion en imprimir pedido
+**********Actualizar el hint de Early check-in y Late check-out en el modal de resumen de GRID
+**********Cambiar el nombre del modulo de ventas a facturacion
+**********Corregir que no estan cargando los pedidos generados en el modulo pedidos en el modal de Pedido/consumo en facturación
+En el modulos grid, hacer que el modal cuando de haga hover sober una estancia de muestre al lado izquierdo
+**********En el modal de habitacion editar el button consumos y servicio por Consumos y servicios habitacion de GRID
+**********En el modal de habitacion agregar un boton que muestre Consumos y servicios pedido
+Listar solo las estancias en pedidos

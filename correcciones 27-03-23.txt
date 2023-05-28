@@ -1,0 +1,5 @@
+-> crear el mantenedor de habitacion
+-> no me muestra cuando registro consumo y servicio habitación 
+al momento de registrar, recien cuando lo vuelvo abrir me muestra
+-> no me permite cobrarme el total de la deuda al registrar un pago
+se tomo como ejemplo a la estancia de Fenrando Acuña
